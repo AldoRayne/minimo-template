@@ -9,3 +9,7 @@ a {
 button {
     cursor: pointer;
 }
+
+ul {
+    padding: 0;
+}

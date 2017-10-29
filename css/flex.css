@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
 }
 
 .flex-center {
@@ -12,6 +11,20 @@
     align-items: center;
 }
 
+.row-flex-start {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
 .flex-item {
     flex-basis: 50%;
+}
+
+.footer-flex-item {
+    flex-basis: 90%;
+}
+
+.footer-flex-item li {
+    margin-right: 50px;
 }

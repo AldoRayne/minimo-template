@@ -1,10 +1,9 @@
-.foot {
+.footer {
     position: relative;
-    margin-bottom: 0;
+    height: 100px;
     width: 100%;
     background-color: #f0f0f0;
 }
-
-.footer-list li{
-    display: inline;
+.social-items li:not(:last-child) {
+    margin-right: 40px;
 }

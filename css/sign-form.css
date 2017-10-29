@@ -1,0 +1,35 @@
+.sign-form {
+    width: 100%;
+    min-height: 289px;
+    margin: 121px 0 101px 0;
+    background-color: #f0f0f0;
+}
+
+.sign-form button, input[type="email"] {
+    border: 0;
+    background: transparent;
+}
+
+.input-style {
+    border-bottom: 2px solid #000000;
+    padding-bottom: 12px;
+    margin-top: 83px;
+    width: 401px;
+}
+
+.sign-up-header {
+    color: #333333;
+    font-family: "PlairfairDisplay-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0.75px;
+}
+
+.sign-form input[placeholder] {
+    font-family: "PlairfairDisplay-Regular", sans-serif;height: 12px;
+    color: #626262;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}

@@ -1,0 +1,28 @@
+.header {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+}
+
+.site-logo {
+    font-family: "Inconsolata-Regular", sans-serif;
+    color: #000000;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
+
+.nav-bar-item {
+    color: #626262;
+    font-family: "PlairfairDisplay-Regular", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+

@@ -4,6 +4,7 @@
 }
 
 .big-section:first-child {
+    padding-top: 100px;
     overflow: hidden;
 }
 

@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .flex-center {
@@ -14,7 +15,6 @@
 .row-flex-start {
     display: flex;
     justify-content: flex-start;
-    align-items: center;
 }
 
 .flex-item {
@@ -22,9 +22,18 @@
 }
 
 .footer-flex-item {
-    flex-basis: 90%;
+    flex-basis: 80%;
 }
 
 .footer-flex-item li {
     margin-right: 50px;
+}
+
+.footer-flex-item a {
+    font-family: "PlairfairDisplay-Regular", sans-serif;
+    height: 12px;
+    color: #000000;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
 }

@@ -2,6 +2,10 @@
     margin-top: 133px;
 }
 
+.photo-list li {
+    margin-bottom: 130px;
+}
+
 .photo-description {
     width: 414px;
     color: #626262;

@@ -7,11 +7,17 @@
 
 .sign-form button, input[type="email"] {
     border: 0;
-    background: transparent;
+    background: none;
 }
 
 .sign-form input[type="email"] {
     width: 350px;
+}
+
+.sign-form button {
+    width: 32px;
+    height: 17px;
+    background-image: url("../images/arrow-button.png");
 }
 
 .input-style {
